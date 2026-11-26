@@ -4,7 +4,7 @@ A Mac app that finds and cleans the caches, old agent sessions, and build folder
 
 You review each item first. Most cleanups go to the Trash, so a wrong pick can come back from Restore.
 
-![Haikos Clean — Projects screen](docs/screenshot.png)
+![Haikos Clean — Haikos Clean scanning a Mac](docs/screenshot.png)
 
 Haikos Clean is made by [Haikotek](https://haikotek.com/en). It runs on a **Mac with Apple silicon** and **macOS 12 Monterey or later**. Version **1.0.3** is available on the [Mac App Store](https://apps.apple.com/app/id6823184912). This repository hosts **releases and issues only**; the source code is not published here.
 
@@ -110,7 +110,7 @@ Full details: [Privacy Policy](https://haikosclean.haikotek.com/privacy).
 
 ## Reporting bugs
 
-Please [open an issue](https://github.com/HaikoTek/haikos-clean/issues/new) on this repository. A short report is enough if it includes:
+Please [open an issue](https://github.com/HaikoTek/haikos-clean-app/issues/new) on this repository. A short report is enough if it includes:
 
 - App version (Haikos Clean → About Haikos Clean)
 - macOS version
